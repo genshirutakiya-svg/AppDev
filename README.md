@@ -1,11 +1,10 @@
 # AppDev
 My First Repository
 # 👋 Introduction
+Genre: Sci-Fi Thriller
 
-Hi there! Welcome to my GitHub profile.  
-I'm passionate about **software development**, **open-source contributions**, and **continuous learning**.  
+Premise: In 2085, scientists discover a way to send memories back in time. A young historian accidentally receives the memories of a future warlord, forcing her to decide whether to change history or let fate unfold.
 
-- 🔭 Currently working on: Full-stack web applications  
-- 🌱 Learning: Cloud computing & DevOps  
-- 💬 Ask me about: JavaScript, Python, and Git workflows  
-- ⚡ Fun fact: I love solving coding challenges and automating everyday tasks  
+Key Themes: Time, destiny, moral choices, the ripple effect of small actions.
+
+Why it could be a favorite: It blends suspense with philosophy, making you question whether changing the past is worth the cost.
